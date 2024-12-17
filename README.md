@@ -43,8 +43,8 @@ This repository contains projects where I analyze, visualize, and extract insigh
    ```bash
    git clone https://github.com/cel07/Projects.git
    ```
-2. Navigate to the DOHMH NYC Restaurant Inspection Analysis folder.
-3. Open the Jupyter Notebook to explore the analysis and findings.
+2. Navigate to any of the project folders.
+3. Open the Jupyter Notebook or report (in pdf format) to explore the analysis and findings.
 
 ---
 
