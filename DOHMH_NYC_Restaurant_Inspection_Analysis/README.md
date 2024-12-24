@@ -42,5 +42,13 @@ Below is an overview of the files and datasets used for the **DOHMH NYC Restaura
 
 ---
 
-This overview documents the key resources utilized for analyzing NYC restaurant inspections, linking data sources, technical guides, and violation references to ensure an accurate and insightful analysis.
+## 6. **dohmh_nyc_report.pdf**
+- **Content**: A comprehensive report analyzing NYC’s restaurant health inspections over the past five years, detailing key trends, operational inefficiencies, and actionable insights.  
+- **Purpose**:  
+   - Highlights common violations, borough trends, cuisine-specific insights, and seasonal patterns.  
+   - Provides recommendations to improve compliance, streamline inspections, and enhance public health.  
+- **Relevance**: Serves as an analytical summary for policymakers, restaurant owners, and public health officials, complementing the dataset analysis with narrative insights and visualization.
 
+---
+
+This overview documents the key resources utilized for analyzing NYC restaurant inspections, linking data sources, technical guides, and violation references to ensure an accurate and insightful analysis.
