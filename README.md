@@ -56,7 +56,7 @@ This repository contains projects where I analyze, visualize, and extract insigh
   - SQL solutions to business-related queries  
   - Supporting visualizations and tables  
 - **File**:  
-  - [`Sales Data Analyst Take-Home.pdf`](.Sales_Data_Analysis/Sales Data Analyst Take-Home.pdf)  
+  - [`Sales Data Analyst Take-Home.pdf`](Sales_Data_Analysis/Sales%20Data%20Analyst%20Take-Home.pdf)  
 
 ---
 
