@@ -13,7 +13,7 @@ This repository contains projects where I analyze, visualize, and extract insigh
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn  
 - **Visualization Tools**: Tableau, Power BI  
 - **Platforms**: Jupyter Notebook, GitHub  
-- **Skills**: Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, Insights Generation  
+- **Skills**: Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, SQL Query Writing, Insights Generation  
 
 ---
 
@@ -38,18 +38,29 @@ This repository contains projects where I analyze, visualize, and extract insigh
 
 ---
 
+### 2. Sales Data Analyst Take-Home (Clipboard Health)  
+- **Objective**: Analyze CMS (Centers for Medicaid and Medicare Services) Payroll-Based Journal (PBJ) data to provide recommendations for Clipboard Health’s sales leadership team. Additionally, complete SQL-based analytical queries on a given dataset.  
+- **Dataset**:  
+  - CMS Payroll-Based Journal (PBJ) Daily Nurse Staffing Dataset ([CMS PBJ Data](https://data.cms.gov/quality-of-care/payroll-based-journal-daily-nurse-staffing/data))  
+- **Skills Demonstrated**:  
+  - Data Cleaning and Preparation  
+  - Joining Multiple Datasets for Analysis  
+  - Trend Identification and Insights Generation  
+  - SQL Query Writing for Data Retrieval and Aggregation  
+- **Key Components**:  
+  - Analysis of nursing home staffing trends and reliance on contract workers  
+  - Identification of sales opportunities for Clipboard Health based on staffing shortages  
+  - SQL queries covering customer sales trends, revenue breakdowns, and product performance  
+- **Output**:  
+  - Written recommendations for business strategy based on CMS data  
+  - SQL solutions to business-related queries  
+  - Supporting visualizations and tables  
+- **File**:  
+  - [`Sales Data Analyst Take-Home.pdf`](./Sales%20Data%20Analyst%20Take-Home.pdf)  
+
+---
+
 ## How to Use This Repository  
 1. Clone the repository:  
    ```bash
    git clone https://github.com/cel07/Projects.git
-   ```
-2. Navigate to any of the project folders.
-3. Open the Jupyter Notebook or report (in pdf format) to explore the analysis and findings.
-
----
-
-## Future Plans
-
-I plan to regularly update this repository with:
- - New projects from diverse domains (e.g., finance, healthcare, environment).
- - Enhanced visualizations and insights using advanced techniques.
